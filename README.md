@@ -1,5 +1,5 @@
 # Repositorio del curso de Sistemas Operativos - Universidad del Valle
-## Autor Juan Pablo Pérez - 201712345
+## Autor Santiago Ramirez Ruiz 201831310
 
 ## Clase 2019_05_23
 
