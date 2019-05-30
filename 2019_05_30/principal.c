@@ -7,4 +7,7 @@ int main(int argc, char** argv) {
   a = 5;
   b = 6;
   printf("la suma de %d + %d es %d\n",a,b,suma(a,b));
+  printf("La resta de %d - %d es %d\n",a,b,resta(a,b));
+  printf("La multiplicacion de %d x %d es de %d\n",a,b,multiplicacion(a,b));
+  printf("La division de %d / %d es de %d\n",a,b,division(a,b));
 }
